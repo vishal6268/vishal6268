@@ -47,15 +47,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats & Streaks
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 🌱 My Learning & Growth Path
 ```diff
 📌 Currently Learning:
