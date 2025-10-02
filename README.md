@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ,I'm Vishal Choudhary
 
 <!--
 **vishal6268/vishal6268** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Vishal Choudhary</h1>
+<div align=center>
+<a href="https://techquanta.tech">
+  <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/vishal6268?theme=starry&size=234&canvas=light&shape=circle&radius=100" alt="avatar-api">
+</a>
+</div>
 <h3 align="center">🚀 A Passionate Java Developer from India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
