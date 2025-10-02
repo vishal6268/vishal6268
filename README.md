@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <h3 align="center">🚀 A Passionate Java Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="" />
+<img align="right" alt="GSSOC" width="400" src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" />
 
 ---
 
