@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">Tech Quanta - Community Specialist </h3>
 <div align=center>
 <a href="https://techquanta.tech">
   <img src="https://github-avatar-frame-api.onrender.com/api/framed-avatar/vishal6268?theme=starry&size=234&canvas=dark&shape=circle&radius=100" alt="avatar-api">
 </a>
 </div>
-<h3 align="center">🚀 A Passionate Java Developer from India 🇮🇳</h3>
+<h3 align="center">🚀 A Passionate Java Developer from India </h3>
 
 <img align="right" alt="GSSOC" width="400" src="https://github.com/user-attachments/assets/950fea18-882f-4f92-b33b-6a0c02adc140" />
 
